@@ -13,3 +13,10 @@ Interest & Risk Analysis: The average interest rate is 12%, and DTI (Debt-to-Inc
 Trend Analysis: Loan applications are highest in certain months, states, and employee categories, helping target profitable segments.
 
 Loan Purpose & Ownership Impact: Most loans are for debt consolidation and homeowners (mortgage) show better repayment rates than renters.
+# Dashboard
+![Screenshot 1](https://github.com/user-attachments/assets/b62a67a8-ce64-4c63-b481-0ed85adcf13b)
+![Screenshot 2](https://github.com/user-attachments/assets/5b33d1be-dbc0-4f8f-a6c5-bd948b7a2ade)
+![Screenshot 3](https://github.com/user-attachments/assets/fa96c740-bb95-4a2a-9e6a-1c775b8282ee)
+
+
+
