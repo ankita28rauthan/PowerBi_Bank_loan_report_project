@@ -17,6 +17,8 @@ Loan Purpose & Ownership Impact: Most loans are for debt consolidation and homeo
 ![Screenshot 1](https://github.com/user-attachments/assets/b62a67a8-ce64-4c63-b481-0ed85adcf13b)
 ![Screenshot 2](https://github.com/user-attachments/assets/5b33d1be-dbc0-4f8f-a6c5-bd948b7a2ade)
 ![Screenshot 3](https://github.com/user-attachments/assets/fa96c740-bb95-4a2a-9e6a-1c775b8282ee)
+# Conclusion  
+This Bank Loan Report Dashboard provides valuable insights into loan distribution, funding, and repayment trends. By analyzing good vs. bad loans, interest rates, and borrower demographics, financial institutions can make data-driven lending decisions, reduce default risks, and optimize loan approvals. The dashboard helps in identifying profitable segments, improving risk assessment, and enhancing overall financial performance.
 
 
 
